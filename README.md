@@ -1,1 +1,1 @@
-# RivonAI
+# RivonAI - Advanced chatbot app
